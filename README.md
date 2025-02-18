@@ -1,4 +1,5 @@
-## Thali - A affordable and healthy meal Platform.
+
+## Thali - An Affordable and Healthy Meal Platform
 
 Welcome to Thali! Thali is a web platform dedicated to providing affordable and nutritious food options while combating food wastage. Our mission is to make a positive impact on society by offering homemade meals at affordable prices.
 
@@ -45,7 +46,19 @@ To install Thali on your device, follow these steps:
 2. Save all the files in the repository (including `Thali.css`, `style.css`, `Thali.js`, `checks.js`, and any image files) in the same folder on your device.
 3. Open the `thaliproject.html` file in your web browser to access Thali.
 
+## Usage
+
+### How to Use the Thali Website
+
+1. **Open the Website:** Open the `thaliproject.html` file in your web browser to access the Thali platform.
+2. **Create an Account:** Sign up by providing your basic information and create an account to start using the platform.
+3. **Browse Meals:** Explore the available meal options on the website. You can browse through different categories and select meals based on your dietary preferences.
+4. **Order Meals:** Select the meals you want to order and add them to your cart. You can view the details of each meal, including ingredients and nutritional information.
+5. **Manage Schedule:** Use the meal management feature to plan your daily meals and schedule deliveries according to your convenience.
+6. **Track Attendance:** Keep track of your daily attendance and meal consumption using the platform's user-friendly interface.
+7. **Make Payments:** Complete your order by making a secure payment through the platform. You can choose from various payment options available.
+8. **Receive Delivery:** Your meals will be delivered to your doorstep at the scheduled time. Enjoy your nutritious and delicious meals!
+
 ## Contact
 
 For any inquiries or feedback, please contact us at [piyushcovid@gmail.com](mailto:piyushcovid@gmail.com).
-
